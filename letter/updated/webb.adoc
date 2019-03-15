@@ -8,6 +8,9 @@ ____
 
 == Letter from Elizabeth Webb
 
+[.embedded-content-document.letter]
+--
+
 [.salutation]
 Worthy friend,^
 footnote:[The recipient of this letter was Anthony William Boehm,
@@ -797,6 +800,8 @@ and remain your friend in true sincerity,
 
 [.signed-section-signature]
 Elizabeth Webb
+
+--
 
 [.asterism]
 '''
