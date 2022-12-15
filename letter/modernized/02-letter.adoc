@@ -1,7 +1,8 @@
 [short="A Letter of Elizabeth Webb"]
 == A Letter From Elizabeth Webb to Anthony William Boehm
 
-Worthy friend,--
+[.salutation]
+Worthy friend,
 
 The kind respect you showed me, when in London,
 has laid me under an obligation wherein I find my mind drawn
@@ -869,11 +870,14 @@ If you find anything on your mind, please to let me have it.
 So in the love that is pure, does my soul greet you,
 and remain your friend in true sincerity,
 
+[.signed-section-signature]
 Elizabeth Webb.
 
+[.letter-heading]
 The Answer to the Foregoing Letter
 
-Dear Friend,--
+[.salutation]
+Dear Friend,
 
 I am heartily glad you are come to town again,
 so that I might have an opportunity of seeing you before you leave England.
@@ -897,9 +901,11 @@ and to make up again wherein I have been lacking at present;
 and so recommend you to the infinite favour and protection of the Lord;
 I remain in sincerity,
 
+[.signed-section-closing]
 Your friend and servant,
 
+[.signed-section-signature]
 Anthony William Boehm.
 
-Strand, Jan.
-2, 1712.
+[.signed-section-context-close]
+Strand, Jan. 2, 1712.
